@@ -3,7 +3,7 @@
 ### Full Stack JavaScript Developer
 
 I build scalable web and mobile applications using modern JavaScript technologies.
-My main focus is backend development, REST APIs, and designing efficient data-driven systems.
+My primary focus is backend development, REST API design, and building efficient data-driven systems that scale well in production environments.
 
 ---
 
@@ -29,42 +29,67 @@ My main focus is backend development, REST APIs, and designing efficient data-dr
 * MySQL
 * PostgreSQL
 
+### Tools & Technologies
+
+* Git & GitHub
+* REST APIs
+* API Authentication (JWT)
+* Database Design
+* System Architecture
+
 ---
 
 ## 💡 What I Build
 
-* RESTful APIs
 * Scalable backend systems
+* RESTful APIs
 * Full-stack web applications
-* Mobile applications
+* Cross-platform mobile applications
 * Database-driven platforms
+* Data-focused backend services
 
 ---
 
 ## 📌 Current Focus
 
-* System design and backend architecture
-* Building production-ready APIs
-* Full-stack applications using modern JavaScript frameworks
-* Optimizing database queries and performance
+* Backend system architecture
+* Production-ready API development
+* Performance optimization for databases
+* Building modern full-stack applications
 
 ---
 
-## 📂 Projects
+## 🌟 Featured Work
 
-My repositories include projects related to:
+Projects on my GitHub include:
 
-* Full-stack web development
-* Backend API systems
-* React and Next.js applications
-* React Native mobile apps
-* Database-focused backend systems
+* Backend API systems built with Node.js and Express
+* Full-stack web applications using React and Next.js
+* Mobile applications built with React Native
+* Database-driven platforms using MongoDB, MySQL, and PostgreSQL
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Stats
 
-Email: **[makulsaini9222@gmail.com](mailto:saini.guru@gmail.com)**
+![Makul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sainimakul\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sainimakul\&layout=compact)
+
+---
+
+## 📚 Currently Learning
+
+* Advanced System Design
+* Microservices Architecture
+* Backend scalability patterns
+* Performance optimization techniques
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: **[makulsaini9222@gmail.com](mailto:makulsaini9222@gmail.com)**
 
 ---
 
