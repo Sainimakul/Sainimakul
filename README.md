@@ -70,13 +70,6 @@ Projects on my GitHub include:
 
 ---
 
-## 📊 GitHub Stats
-
-![Makul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sainimakul\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sainimakul\&layout=compact)
-
----
 
 ## 📚 Currently Learning
 
