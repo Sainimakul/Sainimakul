@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Makul Saini 👋
 
-<!--
-**Sainimakul/Sainimakul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack JavaScript Developer
 
-Here are some ideas to get you started:
+I build scalable web and mobile applications using modern JavaScript technologies.
+My main focus is backend development, REST APIs, and designing efficient data-driven systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+* React.js
+* Next.js
+
+### Mobile
+
+* React Native
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Databases
+
+* MongoDB
+* MySQL
+* PostgreSQL
+
+---
+
+## 💡 What I Build
+
+* RESTful APIs
+* Scalable backend systems
+* Full-stack web applications
+* Mobile applications
+* Database-driven platforms
+
+---
+
+## 📌 Current Focus
+
+* System design and backend architecture
+* Building production-ready APIs
+* Full-stack applications using modern JavaScript frameworks
+* Optimizing database queries and performance
+
+---
+
+## 📂 Projects
+
+My repositories include projects related to:
+
+* Full-stack web development
+* Backend API systems
+* React and Next.js applications
+* React Native mobile apps
+* Database-focused backend systems
+
+---
+
+## 📫 Contact
+
+Email: **[makulsaini9222@gmail.com](mailto:saini.guru@gmail.com)**
+
+---
+
+⭐ Feel free to explore my repositories and connect.
